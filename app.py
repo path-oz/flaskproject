@@ -1,5 +1,5 @@
 
-# template
+# template code
 from flask import Flask
 
 app = Flask(__name__)
